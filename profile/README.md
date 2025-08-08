@@ -38,9 +38,9 @@ Our infrastructure is powered by **reliable backend systems** (including custom 
 ## 📢 Social Media & Links  
 - 🌍 **Website:** [https://maskednet.org](https://maskednet.org)  
 - 💬 **Discord:** [Join Our Community](https://maskednet.org/discord)  
-- 🐦 **Twitter/X:** [@MaskedNET](https://maskednet.org/twitter)  
-- 📷 **Instagram:** [MaskedNET](https://maskednet.org/instagram)  
-- 📱 **TikTok:** [MaskedNET](https://maskednet.org/tiktok)  
+- 🐦 **Twitter/X:** [@MaskedNET](https://maskednet.org/x)  
+- 📷 **Instagram:** [@MaskedNETorg](https://maskednet.org/instagram)  
+- 📱 **TikTok:** [@MaskedNET](https://maskednet.org/tiktok)  
 - ⏸ **YouTube**: [@MaskedNETorg](https://maskednet.org/youtube)
 
 ---
