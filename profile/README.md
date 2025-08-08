@@ -46,7 +46,7 @@ Our infrastructure is powered by **reliable backend systems** (including custom 
 ---
 
 ## 👥 Current Members
-| Avatar | Username | Status |
+| Avatar | Username | Role |
 |---|---|---|
 | <img src="https://github.com/tcsmasked.png" width="50" height="50" style="border-radius:50%;"> | **tcsmasked** | Founder |
 
